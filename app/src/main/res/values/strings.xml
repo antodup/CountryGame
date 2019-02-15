@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CountryCapital</string>
+    <string name="title_app">Country Capital Check</string>
+    <string name="txt_name_player">Entrer le nom d\'un player</string>
+    <string name="votre_date_de_naissance">Votre date de naissance</string>
+    <string name="votre_localisation">Votre localisation</string>
+    <string name="valider">Valider</string>
+    <string name="phone_hint">Numéro de téléphone</string>
+    <string name="invalid_phone_number">Ce n\'est pas le bon numéro</string>
+    <string name="valid_phone_number">Le numéro de téléphone est bon</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_label1">Home</string>
+    <string name="tab_label2">History</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
